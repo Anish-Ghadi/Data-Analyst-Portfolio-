@@ -32,11 +32,6 @@ The analysis is supported with dashboards and well-structured PDF reports.
 
 ---
 
-## 📸 Sample Dashboard
-*(Insert a screenshot of one of your PDF reports here for better presentation)*
-
----
-
 ## 🚀 How to Use
 1. Open the provided PDF reports for detailed insights.
 2. If working with raw Excel files, enable macros and explore Pivot Table dashboards.
